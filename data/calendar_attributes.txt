@@ -1,0 +1,6 @@
+service_id,service_description
+c_69942_b_82305_d_31,1/2-Hour Frequency Service (Weekday)
+c_69942_b_81614_d_31,1/2-Hour Frequency Service (Weekday)
+c_69103_b_79876_d_31,Livingston Seasonal Service (Weekday)
+c_21749_b_30487_d_96,Year-Round Streamline Service (Weekend)
+c_21749_b_30487_d_31,Year-Round Streamline Service (Weekday)
